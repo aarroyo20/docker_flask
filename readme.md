@@ -1,6 +1,6 @@
 [My App](https://angela-dockerflask-prod.herokuapp.com/)
 
-
+[![Production Workflow](https://github.com/aarroyo20/docker_flask/actions/workflows/prod.yml/badge.svg)](https://github.com/aarroyo20/docker_flask/actions/workflows/prod.yml)
 
 ## Setting up CI/CD
 
